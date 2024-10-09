@@ -1,0 +1,62 @@
+problems:  [
+  {
+    id: 1,
+    title: 'Two Sum',
+    description: 'Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.\n' +
+      'You may assume that each input would have exactly one solution, and you may not use the same element twice.\n' +
+      'You can return the answer in any order.',
+    examples: { '0': [Object], '1': [Object], '2': [Object] },
+    testCases: { '0': [Object], '1': [Object], '2': [Object] },
+    difficulty: 'EASY',
+    AcceptanceRate: 52
+  },
+  {
+    id: 2,
+    title: 'Move Zeroes',
+    description: "Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.\n" +
+      'Note that you must do this in-place without making a copy of the array.',
+    examples: { '0': [Object], '1': [Object] },
+    testCases: { '0': [Object], '1': [Object] },
+    difficulty: 'EASY',
+    AcceptanceRate: 61.6
+  }
+]
+users:  [
+  {
+    id: '6ae5007a-0c03-4476-8c2b-096a11acfd4d',
+    Role: 'USER',
+    email: 'test1@gmail.com',
+    username: 'test1',
+    password: '$2b$10$0ANZ9mAzPThxtVx3jruqXuNh.FnbivvmMIzrCRjsIctW.F32y9OAu'
+  },
+  {
+    id: '81679421-5948-4756-8148-33a362dc00bd',
+    Role: 'USER',
+    email: 'test@gmail.com',
+    username: 'test',
+    password: '$2b$10$XZwRoElb9kNxdW0We8rkVeiGM.PetjqN0nJb7DCp/K5nXx3HkUD4m'
+  }
+]
+submissions:  [
+  {
+    id: '2010a39a-2880-4ca0-ba83-8210fa331c82',
+    answer: '#include <iostream> using std::cout; using std::cin; int main() {return 0}',
+    SubmissionStat: 'CORRECT',
+    usersId: '6ae5007a-0c03-4476-8c2b-096a11acfd4d',
+    problemsId: 1
+  },
+  {
+    id: '8a04ebfa-1ff7-41c4-9d49-f46479fc1413',
+    answer: '#include <iostream> THIS IS SOLUTION 1 FOR PROBLEM 2',
+    SubmissionStat: 'CORRECT',
+    usersId: '6ae5007a-0c03-4476-8c2b-096a11acfd4d',
+    problemsId: 2
+  },
+  {
+    id: '6ba4a445-0500-41da-923c-ef794d2207ab',
+    answer: '#include <iostream> THIS IS SOLUTION 2 FOR PROBLEM 2',
+    SubmissionStat: 'CORRECT',
+    usersId: '6ae5007a-0c03-4476-8c2b-096a11acfd4d',
+    problemsId: 2
+  }
+]
