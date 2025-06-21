@@ -1,8 +1,4 @@
-<p align="center" style="font-size: 3rem;">
-  📚🖊️
-</p>
-
-# Pariksa
+# Pariksa 📚🖊️
 
 **Pariksa** is an ensemble testing platform designed for coding contests, problem solving, and automated code evaluation. It features a modern frontend built with React and Tailwind CSS, and a robust backend using Node.js, Express, and Prisma ORM.
 
